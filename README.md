@@ -1,27 +1,22 @@
 
-## 🚀 Hi, I'm Sabari! 👋
+## 🚀 Hi, 👋 I'm Sabari! 
 
 I'm a data analyst | data science enthusiast ...
 
 
 ## Tech Stack
 
-![image](https://www.python.org/static/img/python-logo@2x.png)
+<img align="left" alt="Coding" width=250 src="https://www.python.org/static/img/python-logo@2x.png">
+<img align="left" alt="Coding" width=250 src="https://matplotlib.org/_static/images/logo_dark.svg">
+<img align="left" alt="Coding" width=250 src="https://user-images.githubusercontent.com/108951646/225346794-d77acbe6-f67b-4385-af2e-0caac3296af3.png">
+<img align="left" alt="Coding" width=250 src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
+<img align="left" alt="Coding" width=250 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png">
 
-![image](https://user-images.githubusercontent.com/108951646/225346794-d77acbe6-f67b-4385-af2e-0caac3296af3.png)
-
-![image](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
-
-![image](https://matplotlib.org/_static/images/logo_dark.svg)
-
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png)
-
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VfYfuw4JGQC0QLtbrhWyAQgW9qD9fXanG34lWGAyI1y34PxtAPagPNkCTAoX7_x7sFw&usqp=CAU)
+![image](https://numpy.org/doc/stable/_static/numpylogo_dark.svg)
 
 
 
-
-## Certification
+## Certifications
 
 [SQL | Intermediate - HackerRank ](https://www.hackerrank.com/certificates/12f1a10539ec)
 

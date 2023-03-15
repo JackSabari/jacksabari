@@ -6,19 +6,19 @@ I'm a data analyst | data science enthusiast ...
 
 ## Tech Stack
 
-![Logo](https://www.python.org/static/img/python-logo@2x.png)
+![image](https://www.python.org/static/img/python-logo@2x.png)
 
-![Logo](https://www.analyticsvidhya.com/blog/wp-content/uploads/2015/01/scikit-learn-logo.png)
+![image](https://user-images.githubusercontent.com/108951646/225346794-d77acbe6-f67b-4385-af2e-0caac3296af3.png)
 
-![Logo](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
+![image](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg)
 
-![Logo](https://matplotlib.org/_static/images/logo_dark.svg)
+![image](https://matplotlib.org/_static/images/logo_dark.svg)
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png)
 
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VfYfuw4JGQC0QLtbrhWyAQgW9qD9fXanG34lWGAyI1y34PxtAPagPNkCTAoX7_x7sFw&usqp=CAU)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_VfYfuw4JGQC0QLtbrhWyAQgW9qD9fXanG34lWGAyI1y34PxtAPagPNkCTAoX7_x7sFw&usqp=CAU)
 
-![Logo](https://www.fullstackpython.com/img/logos/scipy.png)
+
 
 
 ## Certification
